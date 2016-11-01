@@ -5,6 +5,7 @@ Bot functionality: Combs through Twitter for latest tweets containing a certain 
 
 
 Libraries:
+
 Tweepy - to connect to Twitter API
 
 markovify - for Markov text generation. [https://github.com/jsvine/markovify]
